@@ -12,7 +12,8 @@ Untuk menggunakan alat ini, ikuti langkah-langkah berikut:
 3. Ubah file:  
     - [src/username.txt](https://github.com/argvn-dev/backup-scheduler/blob/master/src/username.txt) diisi oleh username GitHub
     - [src/email.txt](https://github.com/argvn-dev/backup-scheduler/blob/master/src/email.txt) diisi oleh email GitHub
-    - [src/token.txt](https://github.com/argvn-dev/backup-scheduler/blob/master/src/token.txt) diisi oleh access_token GitHub
+    - [src/token.txt](https://github.com/argvn-dev/backup-scheduler/blob/master/src/token.txt) diisi oleh Access Token GitHub
+        - Access Token GitHub bisa didapatkan di <https://github.com/settings/tokens>
     - [src/source.txt](https://github.com/argvn-dev/backup-scheduler/blob/master/src/source.txt) diisi oleh path folder yang akan dibackup
 4. Jalankan file [setup.bat](https://github.com/argvn-dev/backup-scheduler/blob/master/setup.bat) (double-click).  
   
